@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 104B-F7DB
-
- Directory of C:\Users\dimpu\Desktop\technical\DevOps\Git\MyProject
-
-28-07-2020  11:43 PM    <DIR>          .
-28-07-2020  11:43 PM    <DIR>          ..
-28-07-2020  11:43 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  46,636,204,032 bytes free
+Changes in text
